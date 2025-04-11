@@ -12,7 +12,7 @@
 
 ## 📸 기능 미리보기
 
-
+<img width="740" alt="Image" src="https://github.com/user-attachments/assets/e3125338-c438-4fa7-b4cb-5fa030e1375a" />
 
 ---
 
